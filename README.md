@@ -57,7 +57,7 @@ FITPULSE follows a microservices architecture in which the frontend communicates
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7174072e-31dd-4d5e-a664-4ebedd5fdea5" />
 
 
-```mermaid
+
 ```mermaid
 flowchart TD
     User[User / Browser]
