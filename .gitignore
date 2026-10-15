@@ -1,0 +1,19 @@
+# IDE files
+.idea/
+.DS_Store
+Icon?
+
+# Java build output
+**/target/
+
+# Node.js dependencies and build output
+**/node_modules/
+**/dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
